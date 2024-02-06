@@ -1,0 +1,18 @@
+composer create-project laravel/laravel Exam
+
+php artisan make:model UserInfo -m
+
+userinfo code table
+
+php artisan migrate
+
+userinfo model code
+
+php artisan make:controller Usercontroller
+
+user controller code
+
+web code
+user_form.blade.php
+
+php artisan serv
